@@ -6,7 +6,7 @@ to the number of vertices in your graph.
 Furthermore, you can chance any parameter (a, b, p, number of antes, number of iterations)
 to produce differents results. 
 
-In main.h you will in the function "IniciarPesoFeromonio" a file with the vertices. You can chance this file.
+In aco.h you will in the function "IniciarPesoFeromonio" a file with the vertices. You can chance this file.
 It's just an example. The file needs to follow a specific format. You just need to imput the weights
 between each vertice excluding the main diagonal. 
 
